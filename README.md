@@ -1,1 +1,1 @@
-# Descriptive_statistics_with_Iris
+# Notebooks for the analysis of descriptive statistics
